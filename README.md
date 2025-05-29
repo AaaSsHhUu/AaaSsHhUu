@@ -16,10 +16,12 @@
 
 ---
 
+---
+
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,redux,tailwind,git,cpp" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,redux,tailwind,git,cpp,docker,aws" />
 </p>
 
 ---
