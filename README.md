@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashu Negi</h1>
-<h3 align="center">Full Stack Developer | MERN Stack | TypeScript Enthusiast</h3>
+<h3 align="center">Full Stack Developer | MERN Stack | Backend Enthusiast </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Specialist;Open+Source+Contributor;Lifelong+Learner" alt="Typing SVG" />
@@ -11,7 +11,7 @@
 
 - 🚀 I’m a passionate **Full Stack Developer** from India.
 - 🛠️ I love building **scalable web apps**, APIs, and real-time systems.
-- 🌱 Currently exploring **AI integrations** & **web security**.
+- 🌱 Currently exploring **DevOps**.
 - 📫 Reach me at: **anegi6723@gmail.com**
 
 ---
