@@ -11,7 +11,7 @@
 
 - 🚀 I’m a passionate **Full Stack Developer** from India.
 - 🛠️ I love building **scalable web apps**, APIs, and real-time systems.
-- 🌱 Currently exploring **DevOps**.
+- 🌱 Currently exploring **Go**.
 - 📫 Reach me at: **anegi6723@gmail.com**
 
 ---
